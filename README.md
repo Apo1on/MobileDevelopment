@@ -1,6 +1,12 @@
 ### MobileDevelopment
 
 ## Лабораторная 1
+Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/flutter_application_1/lib/main.dart
+
+## Лабораторная 2
+Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/flutter_application_2/lib/main.dart
+
+## Лабораторная 1
 Афанасьев Евгений ВМК-22
 
 ## Начало
@@ -14,4 +20,6 @@
     4.5. В случае возникновения каких-либо ошибок в процессе установки рекомендуется во всё то же командное поле ввести Flutter и выбрать Flutter: Doctor, который может обнаружить и предложить исправить ошибку 
 5. После установки SDK можете повторно выбрать Flutter: New Project и среда предложит выбрать вам путь, где будет проект, а так же его имя 
 6. Проект создан
+
+
 
