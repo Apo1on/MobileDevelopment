@@ -68,6 +68,10 @@ class _IMTCalState extends State<IMTCal>
                   {
                     return 'Введите ваш вес';
                   }
+                  if (double.parse(value) <= 0)
+                  {
+                    return 'Вес больше нуля';
+                  }
                   return null;
                 },
                 inputFormatters: [
@@ -87,7 +91,7 @@ class _IMTCalState extends State<IMTCal>
                   {
                     return 'Введите ваш рост';
                   }
-                  if (double.parse(value) > 0)
+                  if (double.parse(value) <= 0)
                   {
                     return 'Рост больше нуля';
                   }
