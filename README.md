@@ -6,6 +6,10 @@
 ## Лабораторная 2
 Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/flutter_application_2/lib/main.dart
 
+## Лабораторная 2
+Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/lab3/lib/main.dart
+
+
 ## Лабораторная 1
 Афанасьев Евгений ВМК-22
 
