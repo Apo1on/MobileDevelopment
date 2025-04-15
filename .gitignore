@@ -95,3 +95,9 @@ as/emulator/resources/macros/Track_vertical_plane
 as/emulator/resources/macros/Walk_to_image_room
 as/licenses/android-sdk-license
 flutter/
+/android
+/ios
+/linux
+/macos
+/web
+/windows
