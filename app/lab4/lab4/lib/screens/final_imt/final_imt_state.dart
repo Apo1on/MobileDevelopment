@@ -7,6 +7,17 @@ abstract class FinalImtState extends Equatable {
   List<Object> get props => [];
 }
 
+class FinalImtLoading extends FinalImtState {}
+
+
+class FinalImtCalculationError extends FinalImtError {
+  const FinalImtCalculationError() : super(errorMessage: 'Ошибка расчета ИМТ');
+}
+
+class FinalImtDatabaseError extends FinalImtError {
+  const FinalImtDatabaseError() : super(errorMessage: 'Ошибка сохранения данных');
+}
+
 class FinalImtInitial extends FinalImtState {}
 
 class FinalImtCalculating extends FinalImtState {}
