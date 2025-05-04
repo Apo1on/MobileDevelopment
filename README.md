@@ -9,7 +9,7 @@
 ## Лабораторная 3
 Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/lab3/lib/main.dart
 
-## Лабораторная 4 
+## Лабораторная 4 и 5(доработанная 4 лаба)
 Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/lab4/lab4/lib/main.dart 
         
 
