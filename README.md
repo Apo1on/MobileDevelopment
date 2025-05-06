@@ -15,7 +15,8 @@
 ## Лабораторная 6 
 Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/lab6/lib/main.dart
 
-
+## Лабораторная 7
+Ссылка: https://github.com/Apo1on/MobileDevelopment/blob/main/app/lab7/lib/main.dart
 ## Лабораторная 1
 Афанасьев Евгений ВМК-22
 
