@@ -4,10 +4,10 @@ class ConverterScreen extends StatefulWidget {
   const ConverterScreen({super.key});
 
   @override
-  _ConverterScreenState createState() => _ConverterScreenState();
+  ConverterScreenState createState() => ConverterScreenState();
 }
 
-class _ConverterScreenState extends State<ConverterScreen> {
+class ConverterScreenState extends State<ConverterScreen> {
   final TextEditingController celsiusController = TextEditingController();
   final TextEditingController fahrenheitController = TextEditingController();
   final List<String> conversionHistory = [];
